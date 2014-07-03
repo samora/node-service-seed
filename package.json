@@ -1,0 +1,24 @@
+{
+  "name": "node-service-seed",
+  "version": "0.0.0",
+  "description": "Project template for Node.js web services.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samora/node-service-seed"
+  },
+  "author": "Samora Dake",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samora/node-service-seed/issues"
+  },
+  "homepage": "https://github.com/samora/node-service-seed",
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "require-directory": "^1.2.0",
+    "restify": "^2.8.1"
+  }
+}
